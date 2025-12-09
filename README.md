@@ -34,7 +34,7 @@ Site completo, responsivo e minimalista para a oficina **Dr. Mecânico – Servi
 
 1. Clone o repositório:
 ```bash
-git clone <repository-url>
+git clone https://github.com/rafaelnmiranda/dr-mecanico.git
 cd dr-mecanico
 ```
 
@@ -202,4 +202,3 @@ Para dúvidas ou suporte, entre em contato:
 ---
 
 Desenvolvido com ❤️ para a Dr. Mecânico
-
